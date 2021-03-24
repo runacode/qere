@@ -1,7 +1,7 @@
-<?php $company = "MAMA NEMS SOUL FOOD RESTAURANT";
-$phone = "(407) 253-7744";
-	$address1 = "805 S KIRKMAN RD STE 106";
-	$address2 = "ORLANDO, FL 32811";
+<?php $company = "QUALITY ESSENTIAL RENOVATIONS, LLC";
+$phone = "(706) 329-0018";
+	$address1 = "1256 METRO DR";
+	$address2 = "COLUMBUS, GA 31907";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
